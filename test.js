@@ -15,3 +15,6 @@ console.log(firstName);
 
 var myName = "Hi java";
 console.log(myName);
+
+let nana = "hi o";
+console.log(nana);
